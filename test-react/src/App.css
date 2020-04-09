@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.header_box {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  align-items: center;
+}
+.logo {
+  margin: 0 10px;
+}
+.header_nav a{
+  margin: 10px;
+}
